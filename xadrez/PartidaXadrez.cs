@@ -27,7 +27,7 @@ namespace xadrez
     
         private void colocarPecas()
         {
-            tab.colocarPeca(new Rei(tab, Cor.Preta), new PosicaoXadrez('a',2).ToPosicao());
+            tab.colocarPeca(new Torre(tab, Cor.Preta), new PosicaoXadrez('a',2).ToPosicao());
             tab.colocarPeca(new Rei(tab, Cor.Preta), new PosicaoXadrez('a', 3).ToPosicao());
             tab.colocarPeca(new Rei(tab, Cor.Preta), new PosicaoXadrez('a', 4).ToPosicao());
             tab.colocarPeca(new Rei(tab, Cor.Preta), new PosicaoXadrez('a', 5).ToPosicao());
