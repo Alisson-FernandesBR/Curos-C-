@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-JogoDeXadrez é sistema de jogo de xadrez jogado no console do windows.
+JogoDeXadrez é um jogo de xadrez jogado no console do windows.
 
 A aplicação consiste em um jogo convencional de xadrez jogado por dois jogadores, onde vence que primeiro quem der o Xeque-Mate primeiro, 
 para isto o jogo dispõoe de 16 peças para cada jogador: 
