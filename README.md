@@ -6,8 +6,8 @@
 
 JogoDeXadrez é sistema de jogo de xadrez jogado no console do windows.
 
-A apicação consiste em um jogo convencional de xadrez jogado por dois jogadores, onde vence que primeiro quem der o Xeque-Mate primeiro, 
-para iso o jogo dispõoe de 16 peças para cada jogador: 
+A aplicação consiste em um jogo convencional de xadrez jogado por dois jogadores, onde vence que primeiro quem der o Xeque-Mate primeiro, 
+para isto o jogo dispõoe de 16 peças para cada jogador: 
 - 1 Rei ( representado no jogo pela letra R )
 - 1 Dama ( representado no jogo pela letra D )
 - 2 Bispos ( representado no jogo pela letra B )
